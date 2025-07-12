@@ -1,0 +1,7 @@
+name: RegionServerConnector
+version: '1.0-SNAPSHOT'
+main: com.raghavgaur.regionServerConnector.RegionServerConnector
+api-version: '1.21'
+description: Sends players to another server when entering a region
+author: 'Raghav Gaur'
+commands: {}

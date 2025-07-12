@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RegionServerConnector:jar">
+    <output-path>$PROJECT_DIR$/../Plugins Minecraft</output-path>
+    <root id="archive" name="RegionServerConnector.jar">
+      <element id="module-output" name="RegionServerConnector" />
+    </root>
+  </artifact>
+</component>
